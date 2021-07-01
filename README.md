@@ -10,7 +10,7 @@ A platform to help customers interact with emergency service providers during th
 6. Register Form, for both customers as well as service providers
 7. Admin Panel to manage data (Development Stage)
 
-## Softwares Required:
+## Software Required:
 * XAMPP
 * Editor/IDE for LAMP Stack
 
